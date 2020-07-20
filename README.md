@@ -5,7 +5,7 @@
 🔭 I make iOS apps and in my spare time develop awesome stuff in Swift, focused mainly around games.    
 See my Swift game engine project [Fireblade](https://github.com/fireblade-engine) for example.  
 
-💬 Here's a list of some of my repos. If you like one of it consider contributing or letting me know about your ideas.  I would love to hear from you.  
+💬 Here's a list of some of my repos. If you like one of it consider contributing or let me know about your ideas. I would love to hear from you.  
 🤔 I’m always looking for help with all my projects.  
 
 Happy coding 😊
