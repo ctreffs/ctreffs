@@ -41,7 +41,7 @@ Happy coding 😊
 ### 📊 Repo stats
 
 <img align="left" alt="ctreffs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ctreffs&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&hide_title=true" />
-<img align="left" alt="ctreffs's Github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctreffs&layout=compact&hide_border=true&hide_title=true" />
+<img align="left" alt="ctreffs's Github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctreffs&layout=compact&hide_border=true&hide_title=true&card_width=200" />
 
 
 <!-- References -->
