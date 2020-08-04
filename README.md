@@ -25,9 +25,30 @@ Happy coding 😊
 #### 📱 iOS, macOS & Xcode
 
 * [Swift Simctl](https://github.com/ctreffs/SwiftSimctl) Swift client-server tool to call xcrun simctl from your simulator. Automate push notification testing!
-- [Xcode user defaults](https://github.com/ctreffs/xcode-defaults) Awesome and useful Xcode defaults
-- [RamBob](https://github.com/ctreffs/RamBob) A simple RAM disk creation tool
+* [Xcode user defaults](https://github.com/ctreffs/xcode-defaults) Awesome and useful Xcode defaults
+* [RamBob](https://github.com/ctreffs/RamBob) A simple RAM disk creation tool
 
-### 📫 How to reach me:
+### 📫 How to reach me
 
-Find me here if you like: [ctreffs.de](https://ctreffs.de) | [Twitter](https://twitter.com/ChrisDailyGrind) | [Instagram](https://www.instagram.com/chrisdailygrind/) | [LinkedIn](https://www.linkedin.com/in/ctreffs) | [Xing](https://www.xing.com/profile/Christian_Treffs) | [SoundCloud](https://soundcloud.com/chrisdailygrind)
+
+[<img align="left" width="22px" alt="https://ctreffs.de" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" alt="Xing" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/xing.svg" />][xing]
+
+<br/>
+
+### 📊 Repo stats
+
+<img align="left" alt="ctreffs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ctreffs&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&hide_title=true" />
+<img align="left" alt="ctreffs's Github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctreffs&layout=compact&hide_border=true&hide_title=true" />
+
+
+<!-- References -->
+
+[website]: https://ctreffs.de
+[instagram]: https://www.instagram.com/chrisdailygrind
+[linkedin]: https://www.linkedin.com/in/ctreffs
+[soundcloud]: https://soundcloud.com/chrisdailygrind
+[twitter]: https://twitter.com/ChrisDailyGrind
+[xing]: https://www.xing.com/profile/Christian_Treffs
