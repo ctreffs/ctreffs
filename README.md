@@ -38,6 +38,20 @@ Happy coding 😊
 
 <br/>
 
+### 🗣️ Languages & Tools
+
+<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" />
+<img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/xcode/xcode.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
+<img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/scala/scala.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="Sketch" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sketch/sketch.png" />
+<br/>
+
 ### 📊 Repo stats
 
 <img align="left" alt="ctreffs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ctreffs&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&hide_title=true" />
