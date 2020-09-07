@@ -12,7 +12,8 @@ Happy coding 😊
 
 #### 🎮 Fireblade Engine & Game Dev
 
-* [FirebladeECS](https://github.com/fireblade-engine/ecs) A dependency free, lightweight, fast Entity-Component System (ECS) implementation in pure Swift
+* [FirebladeECS](https://github.com/fireblade-engine/ecs) A dependency free, lightweight, fast Entity-Component System (ECS) implementation in Swift
+* [FirebladeMath](https://github.com/fireblade-engine/math) A dependency free, lightweight, fast math library for 2D and 3D vectors, quaternions and matrices in Swift with (optional) SIMD support.
 * [Game Dev Vlogs](https://github.com/ctreffs/game-dev-vlogs) A list of game development video logs
 * [Launchpad Breakout Game](https://github.com/ctreffs/launchpad-breakout) Breakout - Video game for/on Novation Launchpad Pro
 
